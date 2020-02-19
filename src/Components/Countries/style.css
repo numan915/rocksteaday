@@ -1,10 +1,26 @@
 .flag-container {
     height: 171px;
     background-color: #fff;
-    border: 1px solid #333;
-    width: 100%;
-  }
+    border: 1px solid #9E9E9E;
+    float: left;
+    width: 56%;
+}
+  
   .drop-down {
     float: left;
     margin-left: 34%;
+}
+.flag-container img {
+  float: left;
+  width: auto;
+  height: 99%;
+}
+.countryinfo span {
+  color: #0d6794;
+  font-size: x-large;
+  font-family: initial;
+}
+.drop-down h3 {
+  font-size: x-large;
+  color: #2196F3;
 }
